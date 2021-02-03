@@ -16,13 +16,13 @@ int main() {
      Matrix<double> matrix1 (size , 7.3);
      matrix1.printMatrix();
      cout<<"Creating a matrix from a file: "<<endl;
-     Matrix<int> matrix2 (5,3 ,"C:/Users/Mufasa/OneDrive/Desktop/matrix.txt");
+     Matrix<int> matrix2 (5,3 ,"matrix.txt");
      matrix2.printMatrix();
      cout<<"Creating a matrix from a file: (different type) "<<endl;
-     Matrix<float> matrix3 (3,6,"C:/Users/Mufasa/OneDrive/Desktop/matrix4.txt");
+     Matrix<float> matrix3 (3,6,"matrix.txt");
      matrix3.printMatrix();
      cout<<"Matrices addition: "<<endl;
-     Matrix<int> matrix4(3,3,"C:/Users/Mufasa/OneDrive/Desktop/matrix3.txt");
+     Matrix<int> matrix4(3,3,"matrix.txt");
      matrix2+=matrix4;
      matrix2.printMatrix();
      cout<<"Matrices subtraction: "<<endl;
