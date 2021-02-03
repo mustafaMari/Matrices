@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mufasa/CLionProjects/Matrices/Matrix.h
+iostream
+-
+fstream
+-
+Vector.h
+C:/Users/Mufasa/CLionProjects/Matrices/Vector.h
+
+C:/Users/Mufasa/CLionProjects/Matrices/Vector.h
+iostream
+-
+
+C:/Users/Mufasa/CLionProjects/Matrices/main.cpp
+iostream
+-
+Matrix.h
+C:/Users/Mufasa/CLionProjects/Matrices/Matrix.h
+Vector.h
+C:/Users/Mufasa/CLionProjects/Matrices/Vector.h
+

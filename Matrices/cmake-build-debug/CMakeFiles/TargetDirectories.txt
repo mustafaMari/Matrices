@@ -1,0 +1,3 @@
+C:/Users/Mufasa/CLionProjects/Matrices/cmake-build-debug/CMakeFiles/Matrices.dir
+C:/Users/Mufasa/CLionProjects/Matrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mufasa/CLionProjects/Matrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
