@@ -11,13 +11,13 @@ Moreover, the project preforms all matrix operations, by overriding operators, s
 a-	Matrix addition
 b-	Matrix subtraction
 c-	Matrix multiplication by:
--a number 
+ -a number 
 -another matrix 
 -a vector
 The determinate and dot product, as well, can be calculated.
 Vectors is another templated class that was created. 
 Vectors can by created by:
--	Sitting the size, the values can be either initialized to 0s (by default) or using the random function which will set random values. 
--	 Selecting a specific column or a row of a matrix. 
+- Sitting the size, the values can be either initialized to 0s (by default) or using the random function which will set random values. 
+-	Selecting a specific column or a row of a matrix. 
 Moreover, the scalar product can be calculated.
 */ 
